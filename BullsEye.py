@@ -12,7 +12,7 @@ selected = option_menu(None,
     options=["Home", "Visualization", "Prediction", "Accuracy"],
     icons=["house", "graph", "book", "envelope"],
     menu_icon="cast",
-    default_index=0,
+    default_index=1,
     orientation="horizontal"
 )
 
